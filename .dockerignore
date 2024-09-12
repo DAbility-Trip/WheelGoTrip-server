@@ -1,0 +1,21 @@
+# Versioning and metadata
+.git
+.github
+.gitignore
+.dockerignore
+
+# Build dependencies
+dist
+node_modules
+
+# Temp directory
+.temp
+.tmp
+
+# Bind mounts
+.pgdata
+.minio-data
+
+# Extras
+.DS_Store
+*.md

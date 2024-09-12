@@ -1,0 +1,25 @@
+################
+# TITLE
+# <type> : <title> -> use this format for title
+# length under 50 / be clear about changes
+# ex) feat : add login
+
+
+################
+# BODY
+# each line length under 72 / seperate lines with "-"
+
+
+################
+# FOOTER
+# indicate related issues, etc.
+# ex) close issue #7
+
+
+################
+# TYPES
+# Feat : new feature
+# Update : changes to existing feature(s)
+# Hotfix : bug fix
+# Chore : build or package manager
+################
