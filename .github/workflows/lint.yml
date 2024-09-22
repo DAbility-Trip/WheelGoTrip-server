@@ -1,4 +1,4 @@
-name: Lint
+name: Check Prettier & Lint
 
 on:
   pull_request:
@@ -31,4 +31,4 @@ jobs:
         run: pnpm format
 
       - name: Lint
-        run: pnpm lint
+        run: pnpm lint-check
